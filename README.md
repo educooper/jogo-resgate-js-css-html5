@@ -1,1 +1,1 @@
-#Jogo Resgate JavaScript Jquery CSS HTML5
+#Jogo Estilo Side Scroll implementado com JQuery e javscript puro.
